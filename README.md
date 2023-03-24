@@ -3,7 +3,7 @@
 Name : Achyut Shah <Br/>
 ID : 202001449 <Br/>
 Lab 5 : IT314 <Br/>
-
+Tool Used : Pylint <Br/>
 [Github Repo used](https://github.com/ndleah/python-mini-project/tree/main/Automated_Mailing)
 <Br/>
 Code<Br/>
